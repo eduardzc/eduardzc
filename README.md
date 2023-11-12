@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello everyone!👋
+My name is Eduardo Rodriguez, I'm a 23 year old mechatronics engineer who has just entered the working world of programming.
 
 <!--
 **eduardzc/eduardzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
