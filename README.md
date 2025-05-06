@@ -1,5 +1,8 @@
 ### Hello everyone!👋
-My name is Eduardo Rodriguez, I'm a 23 year old mechatronics engineer.
+My name is Eduardo Rodriguez, I'm a 24 year old mechatronics engineer.
+
+- 🔭 I’m currently working as Software Engineer, especially working with Java, Spring Boot and Spring Framework.
+- 🌱 I’m currently learning about Microservices, Containers and CI/CD tools and infrastructure.
 
 <!--
 **eduardzc/eduardzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
